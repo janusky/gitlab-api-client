@@ -1,0 +1,9 @@
+gitlab:
+  api-url: https://REPLACE/api/v4/
+  private-token: REPLACE
+
+trusted-certificates:
+  - |
+    -----BEGIN CERTIFICATE-----
+    REPLACE
+    -----END CERTIFICATE-----
